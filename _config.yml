@@ -13,8 +13,8 @@ google_scholar_stats_use_cdn : false
 name                     : &name "Nicolas Foussard"
 description              : &description "personal description"
 url                      : https://nirs123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" #"/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
-repository               : "/" #"Sizhe-Chen/sizhe.chen.homepage"
+baseurl                  : "/"
+repository               : "/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -100,13 +100,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sizhe-Chen"
+  github           : "nirs123"
   google_plus      :
   keybase          :
-  #instagram        : _sizhe_chen_
+  #instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  #linkedin         : -sizhe-chen-
+  linkedin         : nicolas-foussard-b60613229
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -117,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  twitter          : _Sizhe_Chen_
+  twitter          : Nirs_F
   thesis           : # https://drive.google.com/file/d/1ziktI_byIkMB2dQvFF30QhhI53rvM-NX/view?usp=sharing
   orcid            : # "https://orcid.org/0000-0003-3274-6926"
 
