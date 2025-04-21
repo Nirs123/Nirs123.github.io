@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "fr-FR"
 title                    : " "
 title_separator          : "-"
 google_scholar_stats_use_cdn : false
-name                     : &name "Your Name"
+name                     : &name "Nicolas Foussard"
 description              : &description "personal description"
-url                      : https://Sizhe-Chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nirs123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" #"/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
 repository               : "/" #"Sizhe-Chen/sizhe.chen.homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,18 +81,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sizhe Chen"
+  name             : "Nicolas Foussard"
   avatar           : "profile.jpg"
-  bio              : "CS Ph.D. student @ UCB   Visiting researcher @ Meta"
-  location         : "San Francisco"
+  bio              : "Étudiant en 3ème année - BUT Informatique à l'IUT de La Rochelle    Data Engineer / MLOps en Alternance chez Groupe Covéa"
+  location         : "Niort"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=lp5ujPsAAAAJ"
-  email            : "sizhe.chen@berkeley.edu"
-  cv               : "https://drive.google.com/file/d/1UmHL5TfvXIGuNRIPX9DHT_LwRCu1Hkf1/view?usp=sharing"
+  googlescholar    : 
+  email            : "nicolas.foussard@etudiant.univ-lr.fr"
+  cv               : "https://www.canva.com/design/DAFZaJiZ51g/ASpTDtvR0ZhKrQu4gaJKJg/edit"
   #piano            : "https://mp.weixin.qq.com/s/E4ytAAMeRkbODAUqZpq92Q"
   #sop              : "https://drive.google.com/file/d/1nmocMJFOmw_5_N1roe96Vszhhg7zhaZS/view?usp=sharing"
   #story            : "https://zhuanlan.zhihu.com/p/633879303"
-  xiaohongshu      : "http://xhslink.com/5JP3XI"
+  xiaohongshu      : 
   uri              :
   bitbucket        :
   codepen          :
