@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Nicolas Foussard"
   avatar           : "profile.png"
-  bio              : "Étudiant en 3ème année de BUT Informatique à l'IUT de La Rochelle                      Data Engineer / MLOps en Alternance chez Groupe Covéa"
+  bio              : 
   location         : "Niort, FR"
   employer         :
   googlescholar    : 
