@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Nicolas Foussard"
   avatar           : "profile.png"
-  bio              : "Étudiant en 3ème année - BUT Informatique à l'IUT de La Rochelle    Data Engineer / MLOps en Alternance chez Groupe Covéa"
-  location         : "Niort"
+  bio              : "Étudiant en 3ème année de BUT Informatique à l'IUT de La Rochell\nData Engineer / MLOps en Alternance chez Groupe Covéa"
+  location         : "Niort, FR"
   employer         :
   googlescholar    : 
   email            : "nicolas.foussard@etudiant.univ-lr.fr"
@@ -117,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  twitter          : Nirs_F
+  twitter          : 
   thesis           : # https://drive.google.com/file/d/1ziktI_byIkMB2dQvFF30QhhI53rvM-NX/view?usp=sharing
   orcid            : # "https://orcid.org/0000-0003-3274-6926"
 
