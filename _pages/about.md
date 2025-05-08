@@ -27,33 +27,56 @@ Formation
 
 Projets
 ------
-- **Hate Speech** [![](https://img.shields.io/badge/demo-orange
-)]() [![](https://img.shields.io/badge/code-purple
-)]() [![](https://img.shields.io/badge/rapport--md-green
-)]() [![](https://img.shields.io/badge/rapport--pdf-gree
-)]() <br/> Projet en 3ème année de BUT Informatique implémentant un modèle de classification pour détecter la toxicité d'un texte, ainsi qu'une étude de détoxification de contenu toxique.
-- **The Office Classifier** [![](https://img.shields.io/badge/demo-orange
-)](https://the-office-classifier.streamlit.app/) [![](https://img.shields.io/badge/code-purple
-)](https://github.com/Nirs123/the-office-classifier) [![](https://img.shields.io/badge/rapport--md-green
+- **Hate Speech** [![](https://img.shields.io/badge/GitHub-purple
+)](https://github.com/Nirs123/hate-speech) [![](https://img.shields.io/badge/rapport--md-green
+)](https://github.com/Nirs123/hate-speech/blob/main/rapport.md) [![](https://img.shields.io/badge/rapport--pdf-gree
+)](https://github.com/Nirs123/hate-speech/blob/main/rapport.pdf) <br/> Projet en 3ème année de BUT Informatique implémentant un modèle de classification pour détecter la toxicité d'un texte, ainsi qu'une étude de détoxification de contenu toxique.
+- **The Office Classifier** [![](https://img.shields.io/badge/GitHub-purple
+)](https://github.com/Nirs123/the-office-classifier) [![](https://img.shields.io/badge/demo-orange
+)](https://the-office-classifier.streamlit.app/) [![](https://img.shields.io/badge/rapport--md-green
 )](https://github.com/Nirs123/the-office-classifier/blob/main/rapport.md) [![](https://img.shields.io/badge/rapport--pdf-gree
 )](https://github.com/Nirs123/the-office-classifier/blob/main/rapport.pdf) <br/> Projet en 2ème année de BUT Informatique implémentant un modèle de classification de texte pour déterminer le caractère de la série The Office.
-- **High School Specialties Data Viz** <br/> todo
-- **Neon City Brawl** <br/> todo
+- **High School Specialties Data Viz** [![](https://img.shields.io/badge/GitHub-purple
+)](https://github.com/Nirs123/high-school-specialties-data-viz) [![](https://img.shields.io/badge/demo-orange
+)](https://data-viz-spe.streamlit.app/) <br/> Projet personnel fin 2023 réalisé en Python et Streamlit, permettant de générer des visualisations sur les spécialités du Baccalauréat Général en France (données 2020-2021).
+- **Neon City Brawl** [![](https://img.shields.io/badge/GitHub-purple
+)](https://github.com/Nirs123/neon-city-brawl) <br/> Projet personnel durant le Lycée, un jeu en 2D dans le thème Cyberpunk, développé en Python avec la bibliothèque Pygame.  
 
 Concours de programmation
 ------
 **2025**
-- todo
+- **24H du Code** (Le Mans) - 1ère place - Challenge de programmation de robot.
+- **c0d1ngUP** (Poitiers) - 2ème place en catégorie Duo Étudiants - Algorithmie et résolution de problèmes.
 
 **2024**
-- todo
+- **SWERC** (Lyon) - 104ème sur 141 équipes - Concours de programmation Européen en équipe de 3.
+- **24H de l'Info** (Villetaneuse) - 8ème place sur 33 équipes - Challenge entre IUT avec Algorithmie, Développement Web et Cybersécurité.
+- **24H du Code** (Le Mans) - 1ère place - Résolution de problèmes.
+- **c0d1ngUP** (Poitiers) - 1ère place en catégorie Duo Étudiants - Algorithmie et résolution de problèmes.
 
 **2023**
-- todo
+- **Nuit de l'Info** (La Rochelle) - Développement d'un site web en une nuit
+- **24H de l'Info** (Bourg-en-Bresse) - 4ème place sur 21 équipes - Challenge entre IUT avec Algorithmie, Développement Web et Cybersécurité.
+- **c0d1ngUP** (Poitiers) - 1ère place en catégorie Duo Étudiants - Algorithmie et résolution de problèmes.
 
 **2022**
-- todo
+- **Nuit de l'Info** (La Rochelle) - Développement d'un site web en une nuit
 
 Événements
 ------
-todo
+**2025**
+- **DevQuest** (Niort) - Bénévole
+- **Agile Niort** - Bénévole
+- **Journées Portes Ouvertes** (IUT La Rochelle) - Représentant IUT La Rochelle
+- **Salons Étudiants** (La Rochelle et Poitiers) - Représentant IUT La Rochelle
+
+**2024**
+- **Nuit de l'Info** (Niort) - Organisation de l'événement sur le site de [Niort Tech](https://niort-tech.fr/) et bénévole
+- **DevQuest** (Niort) - Bénévole
+- **Agile Niort** - Bénévole
+- **Startup Weekend** (Niort) - Participation (1ère place)
+- **Journées Portes Ouvertes** (IUT La Rochelle) - Représentant IUT La Rochelle
+- **Salons Étudiants** (Niort et Poitiers) - Représentant IUT La Rochelle
+
+**2023**
+- **Salons Étudiants** (Niort) - Représentant IUT La Rochelle
