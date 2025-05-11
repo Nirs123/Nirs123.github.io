@@ -31,6 +31,11 @@ Projets
 )](https://github.com/Nirs123/hate-speech) [![](https://img.shields.io/badge/rapport--md-green
 )](https://github.com/Nirs123/hate-speech/blob/main/rapport.md) [![](https://img.shields.io/badge/rapport--pdf-gree
 )](https://github.com/Nirs123/hate-speech/blob/main/rapport.pdf) <br/> Projet en 3ème année de BUT Informatique implémentant un modèle de classification pour détecter la toxicité d'un texte, ainsi qu'une étude de détoxification de contenu toxique.
+- **Cocktail RAG** [![](https://img.shields.io/badge/GitHub-purple
+)](https://github.com/Nirs123/cocktail-rag) [![](https://img.shields.io/badge/demo-orange
+)](https://cocktail-rag.streamlit.app/) [![](https://img.shields.io/badge/rapport--md-green
+)](https://github.com/Nirs123/cocktail-rag/blob/main/rapport.md) [![](https://img.shields.io/badge/rapport--pdf-gree
+)](https://github.com/Nirs123/cocktail-rag/blob/main/rapport.pdf)  <br/> Projet en 3ème année de BUT Informatique implémentant de la recherche vectorielle sur des recettes de cocktails.
 - **The Office Classifier** [![](https://img.shields.io/badge/GitHub-purple
 )](https://github.com/Nirs123/the-office-classifier) [![](https://img.shields.io/badge/demo-orange
 )](https://the-office-classifier.streamlit.app/) [![](https://img.shields.io/badge/rapport--md-green
