@@ -15,6 +15,8 @@ Je suis également en alternance au sein du [Groupe Covéa](https://www.covea.co
 
 Passionné par l'informatique depuis le Lycée, je m'intéresse particulièrement à l'IA et la Data depuis maintenant 2 ans. J'ai également eu la chance de pouvoir participer à de nombreux [concours de programmations](#concours-de-programmation) principalement orienté sur de l'algorithmie mais pas seulement, car je reste avant tout curieux et enthousiasmé par divers aspects de l'informatique.
 
+Actuellement je me penche particulièrement sur la sécurité des LLM, un sujet sous-exploré selon moi, et depuis peu, je réalise également des [conférences](#conférences) sur des sujets qui me passionnent et que j'aime partager.
+
 Formation
 ------
 2022 - 2025 : **BUT Informatique**
@@ -46,6 +48,11 @@ Projets
 )](https://data-viz-spe.streamlit.app/) <br/> Projet personnel fin 2023 réalisé en Python et Streamlit, permettant de générer des visualisations sur les spécialités du Baccalauréat Général en France (données 2020-2021).
 - **Neon City Brawl** [![](https://img.shields.io/badge/GitHub-purple
 )](https://github.com/Nirs123/neon-city-brawl) <br/> Projet personnel durant le Lycée, un jeu en 2D dans le thème Cyberpunk, développé en Python avec la bibliothèque Pygame.  
+
+Conférences
+------
+- **Sécurisation des LLM, découverte et retour d'expérience** <br> IANA, La Rochelle, Juin 2025
+- **Au secours, de la data dans mon projet ! Streamlit à la rescousse...** <br> DevQuest, Niort, Juin 2025
 
 Concours de programmation
 ------
