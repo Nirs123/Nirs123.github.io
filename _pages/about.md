@@ -23,7 +23,7 @@ Formation
 - Parcours développeur Data / IA
 - Alternance au sein du Groupe Covéa
 
-2022 : **Baccalauréat Général** 
+2022 : **Baccalauréat Général** Mention Très Bien
 - Spécialités Mathématiques et Numériques, Sciences Informatiques
 - Options Mathématiques expertes et Section Européenne
 
@@ -57,6 +57,7 @@ Conférences
 Concours de programmation
 ------
 **2025**
+- **24H de l'Info** (Lyon) - 1ère place sur 39 équipes - Challenge entre IUT avec Algorithmie, Développement Web et Cybersécurité.
 - **24H du Code** (Le Mans) - 1ère place - Challenge de programmation de robot.
 - **c0d1ngUP** (Poitiers) - 2ème place en catégorie Duo Étudiants - Algorithmie et résolution de problèmes.
 
