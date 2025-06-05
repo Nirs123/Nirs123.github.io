@@ -51,7 +51,7 @@ Projets
 
 Conférences
 ------
-- **Sécurisation des LLM, découverte et retour d'expérience** <br> IANA, La Rochelle, Juin 2025
+- **Sécurisation des LLM, découverte et retour d'expérience** avec Clément Garcin <br> IANA, La Rochelle, Juin 2025
 - **Au secours, de la data dans mon projet ! Streamlit à la rescousse...** <br> DevQuest, Niort, Juin 2025
 
 Concours de programmation
