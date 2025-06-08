@@ -1,2 +1,6 @@
 # main links links
 main:
+  - title: "Portfolio"
+    url: /
+  - title: "Blog"
+    url: /blog/

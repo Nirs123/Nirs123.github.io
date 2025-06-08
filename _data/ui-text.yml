@@ -108,7 +108,7 @@ fr: &DEFAULT_FR
   meta_label                 :
   tags_label                 : "Tags :"
   categories_label           : "Catégories :"
-  date_label                 : "Mis à jour :"
+  date_label                 : "Publié le :"
   comments_label             : "Laisser un commentaire"
   comments_title             :
   more_label                 : "Lire plus"
