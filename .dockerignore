@@ -1,0 +1,7 @@
+.git
+.sass-cache
+.jekyll-cache
+Gemfile.lock
+vendor
+.DS_Store
+node_modules

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blog
 permalink: /blog/
 ---
@@ -12,7 +12,7 @@ permalink: /blog/
           {{ post.title }}
         </a>
       </h3>
-      <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+      <small>{{ post.date | date: "%d/%m/%Y" }}</small>
     </li>
   {% endfor %}
 </ul>

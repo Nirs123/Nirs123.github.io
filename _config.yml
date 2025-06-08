@@ -14,7 +14,7 @@ name                     : &name "Nicolas Foussard"
 description              : &description "personal description"
 url                      : https://nirs123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"
-repository               : "/"
+repository               : "Nirs123/Nirs123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -203,7 +203,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: single
+      author_profile: true
+      read_time: true
   # _pages
   - scope:
       path: ""
