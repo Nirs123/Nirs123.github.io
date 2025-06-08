@@ -53,7 +53,8 @@ Conférences
 ------
 - **Sécurisation des LLM, découverte et retour d'expérience** avec Clément Garcin <br> IANA, La Rochelle, Juin 2025
 - **Au secours, de la data dans mon projet ! Streamlit à la rescousse...** [![](https://img.shields.io/badge/Slides-yellow
-)](https://docs.google.com/presentation/d/1TdH_o1U1TDgzRZlTSapJL2ID0O8Nq8Xp) <br> DevQuest, Niort, Juin 2025
+)](https://docs.google.com/presentation/d/1TdH_o1U1TDgzRZlTSapJL2ID0O8Nq8Xp) [![](https://img.shields.io/badge/Replay-red
+)](https://youtu.be/RUB13W9bWRM?si=039bcYklACFgRgbN) <br> DevQuest, Niort, Juin 2025
 
 Concours de programmation
 ------

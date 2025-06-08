@@ -18,7 +18,7 @@ author_profile: true
           </a>
           <small>{{ post.date | date: "%d/%m/%Y" }}</small>
         </h3>
-        <a>{{ post.description }}</a>
+        <p>{{ post.description }}</p>
       </li>
     {% endif %}
   {% endfor %}
