@@ -102,8 +102,8 @@ fr: &DEFAULT_FR
   breadcrumb_separator       : "/"
   toc_label                  : "Sur cette page"
   ext_link_label             : "Lien direct"
-  less_than                  : "plus petit que"
-  minute_read                : "minute de lecture"
+  less_than                  : "Moins de"
+  minute_read                : "minute(s) de lecture"
   share_on_label             : "Partager sur"
   meta_label                 :
   tags_label                 : "Tags :"
