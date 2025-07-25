@@ -1,8 +1,9 @@
 ---
 title: "Wiki"
 layout: single
-permalink: /wiki/
-collection: wiki
 sidebar:
     nav: "wiki"
 ---
+# wiki intro
+
+This is the main wiki page.

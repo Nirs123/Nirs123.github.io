@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <p align="center">Nicolas Foussard</p>
+title: "Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ Je suis également en alternance au sein du [Groupe Covéa](https://www.covea.co
 
 Passionné par l'informatique depuis le Lycée, je m'intéresse particulièrement à l'IA et la Data depuis maintenant 2 ans. J'ai également eu la chance de pouvoir participer à de nombreux [concours de programmations](#concours-de-programmation) principalement orienté sur de l'algorithmie mais pas seulement, car je reste avant tout curieux et enthousiasmé par divers aspects de l'informatique.
 
-Actuellement je me penche particulièrement sur la sécurité des LLM, un sujet sous-exploré selon moi, et depuis peu, je réalise également des [conférences](#conférences) sur des sujets qui me passionnent et que j'aime partager.
+Je partage parfois mes aventures et projets via des posts sur le [blog](https://nirs123.github.io/blog/), et depuis peu je réalise également des [conférences](#conférences) sur des sujets qui me passionnent et que j'aime partager.
 
 Formation
 ------
