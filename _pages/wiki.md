@@ -1,8 +1,8 @@
 ---
-title: Wiki
-layout: collection
+title: "Wiki"
+layout: single
 permalink: /wiki/
 collection: wiki
-entries_layout: list
-classes: wide
+sidebar:
+  nav: "wiki"
 ---

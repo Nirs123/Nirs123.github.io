@@ -1,7 +1,6 @@
 ---
 title: Getting Started
 layout: single
-permalink: /wiki/getting-started/
 sidebar:
   nav: "wiki"
 ---
