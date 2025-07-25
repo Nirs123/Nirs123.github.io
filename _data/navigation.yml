@@ -4,3 +4,10 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
+  - title: "Wiki"
+    url: /wiki/
+wiki:
+  - title: "Getting Started"
+    children:
+      - title: "Test Folder Not getting start"
+        url: /wiki/test_folder/

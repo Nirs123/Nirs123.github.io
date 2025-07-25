@@ -194,6 +194,10 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title.html
+  wiki:
+    output: true
+    permalink: /wiki/:path/
+
 
 
 # Defaults
