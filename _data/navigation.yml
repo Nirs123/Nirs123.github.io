@@ -7,7 +7,10 @@ main:
   - title: "Wiki"
     url: /wiki/
 wiki:
-  - title: "Getting Started"
+  - title: Wiki Home
+    url: /wiki/
+  - title: IA
+    url: /wiki/ia/ia/
     children:
-      - title: "Test Folder Not getting start"
-        url: /wiki/test_folder/
+      - title: LLM
+        url: /wiki/ia/llm/

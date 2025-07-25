@@ -1,6 +1,7 @@
 ---
 title: LLM
 layout: single
+parent: IA
 sidebar:
   nav: "wiki"
 ---
