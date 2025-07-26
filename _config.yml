@@ -194,21 +194,11 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title.html
-  wiki:
-    output: true
-    permalink: /wiki/:path/
 
 
 
 # Defaults
 defaults:
-  - scope:
-      path: "_wiki"
-      type: "wiki"
-    values:
-      layout: single
-      sidebar:
-        custom: wiki_sidebar.html
   - scope:
       path: ""
       type: posts
