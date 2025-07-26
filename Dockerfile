@@ -1,14 +1,23 @@
-# Use official Jekyll image
-FROM jekyll/jekyll:4.2.2
+# Use Ruby base image for Jekyll
+FROM ruby:3.2
 
-# Set working directory
+# Install Jekyll and Bundler
+RUN gem install jekyll bundler
+
+# Set working directory inside the container
 WORKDIR /srv/jekyll
 
-# Copy all files (except those in .dockerignore)
+# Copy Gemfile (if exists) first to cache bundle install
+COPY Gemfile Gemfile.lock* ./
+
+# Install gems
+RUN bundle install || true
+
+# Copy the rest of the site
 COPY . .
 
-# Install dependencies
-RUN bundle install
+# Expose the Jekyll server port
+EXPOSE 4000
 
-# Serve the site
-CMD ["jekyll", "serve", "--force_polling", "--livereload", "--host", "0.0.0.0"]
+# Run Jekyll server
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--watch", "--force_polling"]

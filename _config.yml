@@ -126,6 +126,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - blog
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -150,7 +151,8 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - wiki
+  - wiki/
+  - building
 keep_files:
   - .git
   - .svn
