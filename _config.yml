@@ -202,11 +202,11 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
-      path: ""
-      type: wiki
+      path: "_wiki"
+      type: "wiki"
     values:
+      layout: single
       sidebar:
         custom: wiki_sidebar.html
   - scope:
