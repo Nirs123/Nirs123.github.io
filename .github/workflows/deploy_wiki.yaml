@@ -3,7 +3,7 @@ name: Deploy Docusaurus Wiki
 on:
   push:
     branches:
-      - master   # or 'master' depending on your default branch
+      - main   # or 'master' depending on your default branch
 
 jobs:
   build-and-deploy:
@@ -15,17 +15,19 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18   # Docusaurus v3 needs Node >= 18
+          node-version: 18   # Docusaurus v3 requires Node >= 18
 
       - name: Install dependencies
+        working-directory: ./wiki
         run: npm ci
 
       - name: Build Docusaurus
+        working-directory: ./wiki
         run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          destination_dir: wiki    
+          publish_dir: ./wiki/build 
+          destination_dir: wiki
