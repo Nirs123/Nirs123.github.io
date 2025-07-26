@@ -150,6 +150,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - wiki
 keep_files:
   - .git
   - .svn
