@@ -7,8 +7,6 @@ main:
   - title: "Wiki"
     url: /wiki/
 wiki:
-  - title: Wiki Home
-    url: /wiki/
   - title: IA
     url: /wiki/ia/ia/
     children:
