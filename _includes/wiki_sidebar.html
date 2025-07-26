@@ -1,0 +1,36 @@
+<div class="sidebar">
+  <nav class="nav__list">
+    <ul>
+      {% assign nav = site.data.navigation.wiki %}
+      {% for item in nav %}
+        <li class="nav__list-item{% if item.children %} nav__list-item--parent{% endif %}">
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% if item.children %}
+            <ul class="nav__sublist">
+              {% for child in item.children %}
+                <li class="nav__list-item">
+                  <a href="{{ child.url | relative_url }}">test{{ child.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('.sidebar .nav__list-item--parent > a').forEach(function (link) {
+    const sublist = link.parentElement.querySelector('.nav__sublist');
+    if (!sublist) return;
+
+    sublist.style.display = 'none';
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      sublist.style.display = (sublist.style.display === 'none') ? 'block' : 'none';
+    });
+  });
+});
+</script>

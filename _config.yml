@@ -208,8 +208,7 @@ defaults:
       type: wiki
     values:
       sidebar:
-        nav: "wiki"
-        accordion: true
+        custom: wiki_sidebar.html
   - scope:
       path: ""
       type: posts
