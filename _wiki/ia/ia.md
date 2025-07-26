@@ -1,8 +1,0 @@
----
-title: IA
-layout: single
-sidebar:
-  nav: "wiki"
----
-
-This is the main IA wiki page.
