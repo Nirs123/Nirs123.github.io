@@ -1,8 +1,8 @@
 ---
-title: IA
+title: Mooooore
 layout: single
 sidebar:
   nav: "wiki"
 ---
 
-This is the main IA wiki page.
+This is the more wiki page.

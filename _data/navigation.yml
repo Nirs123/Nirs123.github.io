@@ -7,8 +7,15 @@ main:
   - title: "Wiki"
     url: /wiki/
 wiki:
-  - title: IA
+  - title: "IA"
     url: /wiki/ia/ia/
     children:
-      - title: LLM
-        url: /wiki/ia/llm/
+      - title: "Moreee IA"
+        url: /wiki/ia/more_ia/
+      - title: "LLM"
+        url: /wiki/ia/llm/llm/
+        children:
+          - title: "More LLM"
+            url: /wiki/ia/llm/more_llm/
+  - title: "Moooooore wiki"
+    url: wiki/more_ia/

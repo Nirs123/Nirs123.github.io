@@ -1,10 +1,9 @@
 ---
-title: LLM
+title: More IA
 layout: single
 parent: IA
 sidebar:
   nav: "wiki"
 ---
-# LLM
 
-This is the main LLM wiki page.
+This is the more IA wiki page.
