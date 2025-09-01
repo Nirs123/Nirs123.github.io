@@ -9,17 +9,20 @@ redirect_from:
   
 A propos
 ------
-Bonjour ! Je suis étudiant en 3ème année de BUT Informatique à l'IUT de La Rochelle, suivant le [parcours Développeur Data/IA](https://www.iut-larochelle.fr/formations/departement-informatique/parcours-c-administration-gestion-et-exploitation-des-donnees-niort) dispensé sur Niort.
+Bonjour ! Je suis étudiant à l'INSA Lyon et alternant chez Alouette AI en tant qu'Ingénieur IA/ML.
 
-Je suis également en alternance au sein du [Groupe Covéa](https://www.covea.com/fr), où j'ai réalisé une première année en tant que Data Engineer au sein de la plateforme Big Data du groupe, et une seconde année durant laquelle je travaille en tant que MLOps sur la plateforme Azure et Databricks dédiée à la Data Science.  
+Précédemment, j'ai suivi un BUT Informatique à l'IUT de La Rochelle, dont 2 ans en alternance au sein du [Groupe Covéa](https://www.covea.com/fr), où j'ai réalisé une première année en tant que Data Engineer au sein de la plateforme Big Data du groupe, et une seconde année durant laquelle j'ai travaillé en tant que MLOps sur la plateforme Azure et Databricks dédiée à la Data Science.  
 
-Passionné par l'informatique depuis le Lycée, je m'intéresse particulièrement à l'IA et la Data depuis maintenant 2 ans. J'ai également eu la chance de pouvoir participer à de nombreux [concours de programmations](#concours-de-programmation) principalement orienté sur de l'algorithmie mais pas seulement, car je reste avant tout curieux et enthousiasmé par divers aspects de l'informatique.
+Passionné par l'informatique depuis le Lycée, je m'intéresse particulièrement à l'IA et la Data depuis maintenant plus de 2 ans. J'ai également eu la chance de pouvoir participer à de nombreux [concours de programmations](#concours-de-programmation) principalement orienté sur de l'algorithmie mais pas seulement, car je reste avant tout curieux et enthousiasmé par divers aspects de l'informatique.
 
 Je partage parfois mes aventures et projets via des posts sur le [blog](https://nirs123.github.io/blog/), et depuis peu je réalise également des [conférences](#conférences) sur des sujets qui me passionnent et que j'aime partager.
 
 Formation
 ------
-2022 - 2025 : **BUT Informatique**
+2025 - 2028 : **Diplôme d'Ingénieur** à l'INSA Lyon
+- Spécialité Informatique
+
+2022 - 2025 : **BUT Informatique** à l'IUT de La Rochelle
 - Parcours développeur Data / IA
 - Alternance au sein du Groupe Covéa
 
