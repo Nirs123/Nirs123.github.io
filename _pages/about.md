@@ -58,7 +58,7 @@ Conférences
 )](https://docs.google.com/presentation/d/1I0lXITrSzWCeVWdKbb4AH1k0gMRPymJQ) avec Clément Garcin <br> IANA, La Rochelle, Juin 2025
 - **Au secours, de la data dans mon projet ! Streamlit à la rescousse...** [![](https://img.shields.io/badge/Slides-yellow
 )](https://docs.google.com/presentation/d/1TdH_o1U1TDgzRZlTSapJL2ID0O8Nq8Xp) [![](https://img.shields.io/badge/Replay-red
-)](https://www.youtube.com/watch?v=t7XOXxFVmOo) <br> DevQuest, Niort, Juin 2025
+)](https://www.youtube.com/watch?v=t7XOXxFVmOo) <br> DevQuest, Niort, Juin 2025 <br> Codeurs en Seine, Rouen, Novembre 2025
 
 Concours de programmation
 ------
@@ -84,6 +84,8 @@ Concours de programmation
 Événements
 ------
 **2025**
+- **Hackathon Frugal'IA** (Lyon) - Participation (exploration des tokens de vision)
+- **AWS Game-Day** (Lyon) - Participation
 - **DevQuest** (Niort) - Bénévole
 - **Agile Niort** - Bénévole
 - **Journées Portes Ouvertes** (IUT La Rochelle) - Représentant IUT La Rochelle
