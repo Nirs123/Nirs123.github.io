@@ -63,6 +63,7 @@ Conférences
 Concours de programmation
 ------
 **2025**
+- **SWERC** (Lyon) - 100ème sur 142 équipes - Concours de programmation Européen en équipe de 3.
 - **24H de l'Info** (Lyon) - 1ère place sur 39 équipes - Challenge entre IUT avec Algorithmie, Développement Web et Cybersécurité.
 - **24H du Code** (Le Mans) - 1ère place - Challenge de programmation de robot.
 - **c0d1ngUP** (Poitiers) - 2ème place en catégorie Duo Étudiants - Algorithmie et résolution de problèmes.
