@@ -54,20 +54,28 @@
    * Update language switcher position based on hamburger button visibility
    */
   function updateSwitcherPosition() {
-    const switcher = document.querySelector('.greedy-nav .language-switcher');
+    const switcher = document.querySelector('.masthead__menu .language-switcher');
     const hamburgerBtn = document.querySelector('.greedy-nav button');
     
-    if (switcher && hamburgerBtn) {
+    if (!switcher) {
+      return; // Switcher not found
+    }
+    
+    if (hamburgerBtn) {
       // Check if hamburger button is visible (not hidden)
       const isButtonVisible = !hamburgerBtn.classList.contains('hidden');
       
       if (isButtonVisible) {
-        // Position before the button
-        switcher.style.right = '50px';
+        // Position before the button - account for button width
+        const buttonWidth = hamburgerBtn.offsetWidth || 50;
+        switcher.style.right = (buttonWidth + 10) + 'px';
       } else {
         // Position at the right edge
         switcher.style.right = '0';
       }
+    } else {
+      // No hamburger button, position at right edge
+      switcher.style.right = '0';
     }
   }
 
@@ -101,13 +109,31 @@
     });
 
     // Update position based on hamburger button visibility
-    updateSwitcherPosition();
-    
-    // Update position on window resize (when greedy nav adjusts)
-    window.addEventListener('resize', function() {
-      // Small delay to let greedy nav update first
-      setTimeout(updateSwitcherPosition, 100);
-    });
+    const hamburgerBtn = document.querySelector('.greedy-nav button');
+    if (hamburgerBtn) {
+      updateSwitcherPosition();
+      
+      // Update position on window resize (when greedy nav adjusts)
+      let resizeTimeout;
+      window.addEventListener('resize', function() {
+        clearTimeout(resizeTimeout);
+        // Small delay to let greedy nav update first
+        resizeTimeout = setTimeout(updateSwitcherPosition, 100);
+      });
+      
+      // Also update when greedy nav script runs (observe button class changes)
+      const observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+          if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+            updateSwitcherPosition();
+          }
+        });
+      });
+      observer.observe(hamburgerBtn, { attributes: true, attributeFilter: ['class'] });
+    } else {
+      // If no hamburger button, just position at right edge
+      updateSwitcherPosition();
+    }
   }
 
   // Initialize when DOM is ready
