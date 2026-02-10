@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Blog
-permalink: /fr/blog/
-lang: fr
+permalink: /en/blog/
+lang: en
 author_profile: true
 ---
 
@@ -11,14 +11,14 @@ author_profile: true
 <ul class="post-list">
   {% for post in site.posts %}
     {% assign post_date = post.date | date: '%s' %}
-    {% if post_date <= today and post.lang == 'fr' %}
+    {% if post_date <= today and post.lang == 'en' %}
       <li>
         <h3>
           {% for tag in post.tags %}
             {% assign color = "" %}
             {% if tag == "conference" %}
               {% assign color = "blue" %}
-            {% elsif tag == "concours" %}
+            {% elsif tag == "concours" or tag == "competition" %}
               {% assign color = "red" %}
             {% elsif tag == "project" %}
               {% assign color = "green" %}
