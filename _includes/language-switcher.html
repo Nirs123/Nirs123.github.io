@@ -20,23 +20,39 @@
 </div>
 
 <style>
+.greedy-nav {
+  position: relative;
+}
+
 .greedy-nav .language-switcher {
   position: absolute;
-  right: 50px; /* Position before the hamburger button */
+  right: 0;
   top: 50%;
   transform: translateY(-50%);
-  display: inline-flex;
+  display: inline-flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
   gap: 0;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   overflow: hidden;
-  z-index: 15;
-  background: inherit;
+  z-index: 20;
+  background: #fff;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* When hamburger button is visible, position switcher before it */
+.greedy-nav button:not(.hidden) ~ .language-switcher {
+  right: 50px;
 }
 
 .greedy-nav .language-switcher .lang-btn {
   background: transparent;
   border: none;
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
   padding: 0.5rem 0.75rem;
   cursor: pointer;
   font-size: 0.875rem;
@@ -45,7 +61,12 @@
   transition: background-color 0.2s ease, color 0.2s ease;
   text-decoration: none;
   display: inline-block;
-  line-height: 1;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.greedy-nav .language-switcher .lang-btn:last-child {
+  border-right: none;
 }
 
 .greedy-nav .language-switcher .lang-btn:hover {
@@ -57,14 +78,13 @@
   font-weight: 600;
 }
 
-/* Adjust position when hamburger button is visible */
-.greedy-nav button:not(.hidden) ~ .language-switcher {
-  right: 60px; /* More space when button is visible */
-}
-
 @media (prefers-color-scheme: dark) {
   .greedy-nav .language-switcher {
     border-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  .greedy-nav .language-switcher .lang-btn {
+    border-right-color: rgba(255, 255, 255, 0.2);
   }
   
   .greedy-nav .language-switcher .lang-btn:hover {
@@ -76,11 +96,10 @@
   }
 }
 
-/* Responsive: move switcher on very small screens */
-@media (max-width: 600px) {
-  .greedy-nav .language-switcher {
+/* Responsive: adjust position on smaller screens */
+@media (max-width: 768px) {
+  .greedy-nav button:not(.hidden) ~ .language-switcher {
     right: 45px;
-    font-size: 0.75rem;
   }
   
   .greedy-nav .language-switcher .lang-btn {

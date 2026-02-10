@@ -51,6 +51,27 @@
   }
 
   /**
+   * Update language switcher position based on hamburger button visibility
+   */
+  function updateSwitcherPosition() {
+    const switcher = document.querySelector('.greedy-nav .language-switcher');
+    const hamburgerBtn = document.querySelector('.greedy-nav button');
+    
+    if (switcher && hamburgerBtn) {
+      // Check if hamburger button is visible (not hidden)
+      const isButtonVisible = !hamburgerBtn.classList.contains('hidden');
+      
+      if (isButtonVisible) {
+        // Position before the button
+        switcher.style.right = '50px';
+      } else {
+        // Position at the right edge
+        switcher.style.right = '0';
+      }
+    }
+  }
+
+  /**
    * Initialize language switcher
    */
   function initLanguageSwitcher() {
@@ -77,6 +98,15 @@
           switchLanguage(targetLang);
         }
       });
+    });
+
+    // Update position based on hamburger button visibility
+    updateSwitcherPosition();
+    
+    // Update position on window resize (when greedy nav adjusts)
+    window.addEventListener('resize', function() {
+      // Small delay to let greedy nav update first
+      setTimeout(updateSwitcherPosition, 100);
     });
   }
 
