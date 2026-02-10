@@ -84,6 +84,9 @@ Concours de programmation
 
 Événements
 ------
+**2026**
+- **{Tech: Europe} Paris AI Hackathon** (Paris) - Participation
+
 **2025**
 - **Hackathon Frugal'IA** (Lyon) - Participation (exploration des tokens de vision)
 - **AWS GameDay** (Lyon) - Participation
