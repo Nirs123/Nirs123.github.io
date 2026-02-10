@@ -14,6 +14,10 @@ name                     : &name "Nicolas Foussard"
 description              : &description "personal description"
 url                      : https://nirs123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"
+
+# Language Settings
+languages                : ["fr", "en"]
+default_lang             : "fr"
 repository               : "Nirs123/Nirs123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -195,6 +199,7 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title.html
+  # Note: Language-specific permalinks will be handled in front matter
 
 
 
@@ -214,6 +219,34 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # French pages
+  - scope:
+      path: ""
+      type: pages
+      lang: "fr"
+    values:
+      lang: "fr"
+  # English pages
+  - scope:
+      path: ""
+      type: pages
+      lang: "en"
+    values:
+      lang: "en"
+  # French posts
+  - scope:
+      path: ""
+      type: posts
+      lang: "fr"
+    values:
+      lang: "fr"
+  # English posts
+  - scope:
+      path: ""
+      type: posts
+      lang: "en"
+    values:
+      lang: "en"
   # _teaching
   - scope:
       path: ""

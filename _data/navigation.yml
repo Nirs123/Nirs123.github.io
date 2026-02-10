@@ -4,3 +4,17 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
+
+# French navigation
+fr:
+  - title: "Portfolio"
+    url: /fr/
+  - title: "Blog"
+    url: /fr/blog/
+
+# English navigation
+en:
+  - title: "Portfolio"
+    url: /en/
+  - title: "Blog"
+    url: /en/blog/

@@ -4,8 +4,17 @@ layout: compress
 
 {% include base_path %}
 
+{% comment %}Detect current language from page front matter or URL{% endcomment %}
+{% if page.lang %}
+  {% assign current_lang = page.lang %}
+{% elsif page.url contains '/en/' %}
+  {% assign current_lang = 'en' %}
+{% else %}
+  {% assign current_lang = 'fr' %}
+{% endif %}
+
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ current_lang }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
