@@ -56,10 +56,9 @@ Projets
 
 Conférences
 ------
-- **Sécurisation des LLM, découverte et retour d'expérience** [![](https://img.shields.io/badge/Slides-yellow
-)](https://docs.google.com/presentation/d/1I0lXITrSzWCeVWdKbb4AH1k0gMRPymJQ) avec Clément Garcin <br> IANA, La Rochelle, Juin 2025
+- **Sécurisation des LLM, découverte et retour d'expérience** avec Clément Garcin <br> IANA, La Rochelle, Juin 2025
 - **Au secours, de la data dans mon projet ! Streamlit à la rescousse...** [![](https://img.shields.io/badge/Slides-yellow
-)](https://docs.google.com/presentation/d/1TdH_o1U1TDgzRZlTSapJL2ID0O8Nq8Xp) [![](https://img.shields.io/badge/Replay-red
+)](https://docs.google.com/presentation/d/16y12Dfd4cWNnPnLIssnyPw1lUGZ48MOE8WQFajBrSgs) [![](https://img.shields.io/badge/Replay-red
 )](https://www.youtube.com/watch?v=t7XOXxFVmOo) <br> DevQuest, Niort, Juin 2025 <br> Codeurs en Seine, Rouen, Novembre 2025 <br> DevFest Strasbourg, Novembre 2025
 
 Concours de programmation
@@ -87,6 +86,7 @@ Concours de programmation
 Événements
 ------
 **2026**
+- **Unboxed : Medical AI Agentic** (Lyon) - Participation (4-8ème place)
 - **{Tech: Europe} Paris AI Hackathon** (Paris) - Participation
 
 **2025**

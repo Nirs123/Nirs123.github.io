@@ -55,10 +55,9 @@ Projects
 
 Conferences
 ------
-- **LLM Security, discovery and feedback** [![](https://img.shields.io/badge/Slides-yellow
-)](https://docs.google.com/presentation/d/1I0lXITrSzWCeVWdKbb4AH1k0gMRPymJQ) with Clément Garcin <br> IANA, La Rochelle, June 2025
+- **LLM Security, discovery and feedback** with Clément Garcin <br> IANA, La Rochelle, June 2025
 - **Help, data in my project! Streamlit to the rescue...** [![](https://img.shields.io/badge/Slides-yellow
-)](https://docs.google.com/presentation/d/1TdH_o1U1TDgzRZlTSapJL2ID0O8Nq8Xp) [![](https://img.shields.io/badge/Replay-red
+)](https://docs.google.com/presentation/d/16y12Dfd4cWNnPnLIssnyPw1lUGZ48MOE8WQFajBrSgs) [![](https://img.shields.io/badge/Replay-red
 )](https://www.youtube.com/watch?v=t7XOXxFVmOo) <br> DevQuest, Niort, June 2025 <br> Codeurs en Seine, Rouen, November 2025 <br> DevFest Strasbourg, November 2025
 
 Programming Competitions
@@ -86,6 +85,7 @@ Programming Competitions
 Events
 ------
 **2026**
+- **Unboxed : Medical AI Agentic** (Lyon) - Participation (4-8th place)
 - **{Tech: Europe} Paris AI Hackathon** (Paris) - Participation
 
 **2025**
