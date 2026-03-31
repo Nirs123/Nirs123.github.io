@@ -60,9 +60,14 @@ Conférences
 - **Au secours, de la data dans mon projet ! Streamlit à la rescousse...** [![](https://img.shields.io/badge/Slides-yellow
 )](https://docs.google.com/presentation/d/16y12Dfd4cWNnPnLIssnyPw1lUGZ48MOE8WQFajBrSgs) [![](https://img.shields.io/badge/Replay-red
 )](https://www.youtube.com/watch?v=t7XOXxFVmOo) <br> DevQuest, Niort, Juin 2025 <br> Codeurs en Seine, Rouen, Novembre 2025 <br> DevFest Strasbourg, Novembre 2025
+- **Un RAG en 2026, ça donne quoi ?** [![](https://img.shields.io/badge/Slides-yellow
+)](https://docs.google.com/presentation/d/1cT6dQfk0mHSd34GW_gA2PRjZF5n6Sqr7Ll0A3dyarf8/edit?usp=sharing) <br> Amiens Tech Festival, Amiens, Mars 2026
 
 Concours de programmation
 ------
+**2026**
+- **Cod'INSA** (Valenciennes) - 2ème place - Concours de programmation inter-INSA.
+
 **2025**
 - **SWERC** (Lyon) - 100ème sur 142 équipes - Concours de programmation Européen en équipe de 3.
 - **24H de l'Info** (Lyon) - 1ère place sur 39 équipes - Challenge entre IUT avec Algorithmie, Développement Web et Cybersécurité.
