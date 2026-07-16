@@ -34,6 +34,8 @@ Formation
 
 Projets
 ------
+- **Autonomous Driving for Shell Eco-Marathon** To be completed
+- **RoboLab101** To be completed
 - **Hate Speech** [![](https://img.shields.io/badge/GitHub-purple
 )](https://github.com/Nirs123/hate-speech) [![](https://img.shields.io/badge/rapport--md-green
 )](https://github.com/Nirs123/hate-speech/blob/main/rapport.md) [![](https://img.shields.io/badge/rapport--pdf-gree
