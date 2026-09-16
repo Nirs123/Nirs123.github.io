@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Blog
+title: Archive
 permalink: /en/blog/
 lang: en
 author_profile: true

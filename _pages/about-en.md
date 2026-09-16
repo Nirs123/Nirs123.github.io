@@ -16,7 +16,7 @@ Previously, I completed a BUT Informatique (Computer Science Bachelor) at IUT de
 
 Passionate about computer science since high school, I have been particularly interested in AI and Data for over 2 years now. I have also had the opportunity to participate in numerous [programming competitions](#programming-competitions) mainly focused on algorithms but not only, as I remain above all curious and enthusiastic about various aspects of computer science.
 
-I sometimes share my adventures and projects through posts on the [blog](https://nirs123.github.io/blog/), and recently I have also been giving [conferences](#conferences) on topics that I am passionate about and enjoy sharing.
+I also give [conferences](#conferences) on topics that I am passionate about and enjoy sharing.
 
 Education
 ------
@@ -67,8 +67,8 @@ Conferences
 Programming Competitions
 ------
 **2026**
-- **Cod'INSA** (Valenciennes) - 2nd place - Inter-INSA programming competition.
 - **Gradiant (Prologin x Mistral)** (Paris) - Finalist - National programming contest co-organized by Prologin and Mistral.
+- **Cod'INSA** (Valenciennes) - 2nd place - Inter-INSA programming competition.
 
 **2025**
 - **SWERC** (Lyon) - 100th out of 142 teams - European programming competition in teams of 3.

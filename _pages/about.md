@@ -17,7 +17,7 @@ Précédemment, j'ai suivi un BUT Informatique à l'IUT de La Rochelle, dont 2 a
 
 Passionné par l'informatique depuis le Lycée, je m'intéresse particulièrement à l'IA et la Data depuis maintenant plus de 2 ans. J'ai également eu la chance de pouvoir participer à de nombreux [concours de programmations](#concours-de-programmation) principalement orienté sur de l'algorithmie mais pas seulement, car je reste avant tout curieux et enthousiasmé par divers aspects de l'informatique.
 
-Je partage parfois mes aventures et projets via des posts sur le [blog](https://nirs123.github.io/blog/), et depuis peu je réalise également des [conférences](#conférences) sur des sujets qui me passionnent et que j'aime partager.
+Je réalise également des [conférences](#conférences) sur des sujets qui me passionnent et que j'aime partager.
 
 Formation
 ------
@@ -68,8 +68,8 @@ Conférences
 Concours de programmation
 ------
 **2026**
-- **Cod'INSA** (Valenciennes) - 2ème place - Concours de programmation inter-INSA.
 - **Gradiant (Prologin x Mistral)** (Paris) - Finaliste - Concours de programmation national co-organisé par Prologin et Mistral.
+- **Cod'INSA** (Valenciennes) - 2ème place - Concours de programmation inter-INSA.
 
 **2025**
 - **SWERC** (Lyon) - 100ème sur 142 équipes - Concours de programmation Européen en équipe de 3.

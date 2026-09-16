@@ -32,22 +32,18 @@
 }
 
 .masthead__menu {
-
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
-  }
+  position: relative;
+  min-height: 2.5em;
+  padding-right: 6.5rem;
 }
 
-.masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
+.masthead__title {
+  display: inline-block;
+  padding: 0.5rem 0;
+  font-weight: 700;
+  color: $masthead-link-color;
 
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+  &:hover {
+    color: $masthead-link-color-hover;
   }
 }

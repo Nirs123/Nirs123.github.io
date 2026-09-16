@@ -9,35 +9,14 @@
   {% assign current_lang = 'fr' %}
 {% endif %}
 
-{% comment %}Get language-specific navigation{% endcomment %}
-{% if current_lang == 'en' %}
-  {% assign nav_items = site.data.navigation.en %}
-{% else %}
-  {% assign nav_items = site.data.navigation.fr %}
-{% endif %}
-
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          {% if current_lang == 'en' %}
-            <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/en/">{{ site.title }}</a></li>
-          {% else %}
-            <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/fr/">{{ site.title }}</a></li>
-          {% endif %}
-          {% for link in nav_items %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+      {% if current_lang == 'en' %}
+        <a class="masthead__title" href="{{ base_path }}/en/">{{ site.title }}</a>
+      {% else %}
+        <a class="masthead__title" href="{{ base_path }}/fr/">{{ site.title }}</a>
+      {% endif %}
       {% include language-switcher.html %}
     </div>
   </div>
