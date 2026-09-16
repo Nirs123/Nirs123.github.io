@@ -68,6 +68,7 @@ Programming Competitions
 ------
 **2026**
 - **Cod'INSA** (Valenciennes) - 2nd place - Inter-INSA programming competition.
+- **Gradiant (Prologin x Mistral)** (Paris) - Finalist - National programming contest co-organized by Prologin and Mistral.
 
 **2025**
 - **SWERC** (Lyon) - 100th out of 142 teams - European programming competition in teams of 3.

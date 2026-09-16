@@ -69,6 +69,7 @@ Concours de programmation
 ------
 **2026**
 - **Cod'INSA** (Valenciennes) - 2ème place - Concours de programmation inter-INSA.
+- **Gradiant (Prologin x Mistral)** (Paris) - Finaliste - Concours de programmation national co-organisé par Prologin et Mistral.
 
 **2025**
 - **SWERC** (Lyon) - 100ème sur 142 équipes - Concours de programmation Européen en équipe de 3.
