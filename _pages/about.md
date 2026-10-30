@@ -58,7 +58,7 @@ Projets
 
 Conférences
 ------
-- **Sécurité des LLM - Comprendre les risques pour mieux s’en protéger** [![](https://img.shields.io/badge/Slides-yellow
+- **Sécurité des LLM et Agents IA - Comprendre les risques pour mieux s’en protéger** [![](https://img.shields.io/badge/Slides-yellow
 )](https://docs.google.com/presentation/d/1XNUe8-_sDcJNWtheAs_6yalDCLcqfq5zvfWjfE4bvag) [![](https://img.shields.io/badge/Replay-red
 )](https://www.youtube.com/watch?v=PxPWJBl2WH8) <br> IANA, La Rochelle, Juin 2025, *avec Clément Garcin* <br> Volcamp, Clermont-Ferrand, Octobre 2026
 - **Au secours, de la data dans mon projet ! Streamlit à la rescousse...** [![](https://img.shields.io/badge/Slides-yellow

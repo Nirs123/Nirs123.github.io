@@ -57,7 +57,7 @@ Projects
 
 Conferences
 ------
-- **LLM Security - Understanding the Risks to Protect Against Them** [![](https://img.shields.io/badge/Slides-yellow
+- **LLM & AI Agents Security - Understanding the Risks to Protect Against Them** [![](https://img.shields.io/badge/Slides-yellow
 )](https://docs.google.com/presentation/d/1XNUe8-_sDcJNWtheAs_6yalDCLcqfq5zvfWjfE4bvag) [![](https://img.shields.io/badge/Replay-red
 )](https://www.youtube.com/watch?v=PxPWJBl2WH8) <br> IANA, La Rochelle, JUne 2025, *with Clément Garcin* <br> Volcamp, Clermont-Ferrand, October 2026
 - **Help, data in my project! Streamlit to the rescue...** [![](https://img.shields.io/badge/Slides-yellow
