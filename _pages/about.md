@@ -58,10 +58,12 @@ Projets
 
 Conférences
 ------
-- **Sécurisation des LLM, découverte et retour d'expérience** avec Clément Garcin <br> IANA, La Rochelle, Juin 2025
+- **Sécurité des LLM - Comprendre les risques pour mieux s’en protéger** [![](https://img.shields.io/badge/Slides-yellow
+)](https://docs.google.com/presentation/d/1XNUe8-_sDcJNWtheAs_6yalDCLcqfq5zvfWjfE4bvag) [![](https://img.shields.io/badge/Replay-red
+)](https://www.youtube.com/watch?v=PxPWJBl2WH8) <br> IANA, La Rochelle, Juin 2025, *avec Clément Garcin* <br> Volcamp, Clermont-Ferrand, Octobre 2026
 - **Au secours, de la data dans mon projet ! Streamlit à la rescousse...** [![](https://img.shields.io/badge/Slides-yellow
 )](https://docs.google.com/presentation/d/16y12Dfd4cWNnPnLIssnyPw1lUGZ48MOE8WQFajBrSgs) [![](https://img.shields.io/badge/Replay-red
-)](https://www.youtube.com/watch?v=t7XOXxFVmOo) <br> DevQuest, Niort, Juin 2025 <br> Codeurs en Seine, Rouen, Novembre 2025 <br> DevFest Strasbourg, Novembre 2025
+)](https://www.youtube.com/watch?v=t7XOXxFVmOo) <br> DevQuest, Niort, Juin 2025 <br> Codeurs en Seine, Rouen, Novembre 2025 <br> DevFest Strasbourg, Novembre 2025 <br> BDX I/O, Bordeaux, Octobre 2026
 - **Un RAG en 2026, ça donne quoi ?** [![](https://img.shields.io/badge/Slides-yellow
 )](https://docs.google.com/presentation/d/1cT6dQfk0mHSd34GW_gA2PRjZF5n6Sqr7Ll0A3dyarf8/edit?usp=sharing) <br> Amiens Tech Festival, Amiens, Mars 2026
 
